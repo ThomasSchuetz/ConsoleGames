@@ -1,0 +1,5 @@
+# 2048
+
+First idea for a possible architecture:
+
+![2048architecture](//www.plantuml.com/plantuml/png/jP7FIiD04CRlynHpJDM2Y0UX7WgAfLWG1Bs8XsKpsGviTqjsKj6QTtUJ5JE8Ls_v_eJln-moYMcbsta0OV645-UNLm1WlKa9LsP7c-ZOuX4GvnpavUmL6oPVfsoSVXjteu57HxB0VSi78uGfYtue7IBNkA56gjcFV6ItrVffhyHjV0kwIoDZTdg0l4XjOopXMiFzmV8ly-KiDp6aw6dzKCwYKLp-MWp_JgNgLpmRuu9bkc2tbNAUENN6ymTfSqLoJ--5ODe-cUjbK2lNdpcQ4bXIgFCJVm40)
